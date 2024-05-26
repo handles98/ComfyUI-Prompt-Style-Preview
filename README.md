@@ -13,7 +13,7 @@
 - 1、分组功能。按照类别进行分组，方便查找；
 - 2、预览图功能。每种风格都配有一张预览图，快速定位喜欢的风格；
 - 3、包含319种艺术风格（原版107种）；
-- 4、在[xuyiqing88](https://markdown.com.cn https://github.com/xuyiqing88/ComfyUI-SDXL-Style-Preview)版本基础上再更新261种艺术风格。
+- 4、在[xuyiqing88]( https://github.com/xuyiqing88/ComfyUI-SDXL-Style-Preview)版本基础上再更新261种艺术风格。
 ## 参考
 - [sdxl_prompt_styler](https://github.com/twri/sdxl_prompt_styler)
 - [ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)
