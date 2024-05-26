@@ -1,4 +1,4 @@
-# ComfyUI-SDXL-Style-Preview
+# ComfyUI-Prompt-Style-Preview
 欢迎来到ComfyUI SDXL Style Preview, 本插件是sdxl_prompt_styler的升级版，原版插件请访问 [sdxl_prompt_styler](https://github.com/twri/sdxl_prompt_styler).
 - 插件位置截图：
 - ![demo](./assets/screen-1.png)
@@ -13,9 +13,7 @@
 - 1、分组功能。按照类别进行分组，方便查找；
 - 2、预览图功能。每种风格都配有一张预览图，快速定位喜欢的风格；
 - 3、包含319种艺术风格（原版107种）；
-
+- 4、在[xuyiqing88](https://markdown.com.cn https://github.com/xuyiqing88/ComfyUI-SDXL-Style-Preview)版本基础上再更新261种艺术风格。
 ## 参考
 - [sdxl_prompt_styler](https://github.com/twri/sdxl_prompt_styler)
 - [ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)
-
-- 打赏自愿，下载自由![demo](./assets/赞赏码.png)
