@@ -3215,5 +3215,15 @@
         "name": "手工艺-挂毯",
         "prompt": "{prompt},Tapestry art style, woven textile technique, intricate designs and patterns",
         "negative_prompt": "signature, watermark, ugly, off-center, deformed, cropped, worst quality, low quality, lowres, JPEG artifacts, 3d"
+    },
+    {
+        "name": "Pony-Simple",
+        "prompt": "score_9, score_8_up, score_7_up,{prompt}",
+        "negative_prompt": "score_6_up, score_5_up, score_4_up"
+    },
+    {
+        "name": "Pony-PowerNegative",
+        "prompt": "score_9, score_8_up, score_7_up,{prompt}",
+        "negative_prompt": "score_6_up, score_5_up, score_4_up,text, watermark, low-quality, signature, moiré pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast"
     }
 ]
